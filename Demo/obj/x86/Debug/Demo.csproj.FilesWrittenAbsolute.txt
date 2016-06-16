@@ -1,0 +1,5 @@
+/Users/miniu/Documents/code/C#/Demo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/miniu/Documents/code/C#/Demo/bin/Debug/Demo.exe.mdb
+/Users/miniu/Documents/code/C#/Demo/bin/Debug/Demo.exe
+/Users/miniu/Documents/code/C#/Demo/obj/x86/Debug/Demo.exe
+/Users/miniu/Documents/code/C#/Demo/obj/x86/Debug/Demo.exe.mdb
